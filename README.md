@@ -1,4 +1,4 @@
-# BBQ Splash Page
+# BBQ Splash Page (still in progress)
 
 
 <img width="1536" alt="Screen Shot 2022-11-01 at 7 05 48 PM" src="https://user-images.githubusercontent.com/82247833/199379437-937e0bfb-6091-4530-9f56-f1ceff1f2ad7.png">
