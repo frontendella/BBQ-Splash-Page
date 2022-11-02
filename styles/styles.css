@@ -11,7 +11,9 @@ body {
   line-height: 1.9em;
 }
 
-/* Typography */
+/* =================
+   Typography 
+   ================= */
 
 h1 {
   font-size: 2.25rem;
@@ -68,14 +70,18 @@ h2 + p,
   line-height: 1.5em;
 }
 
-/* Intro section */
+/* 
+===================
+Intro section
+===================
+*/
 
 .intro {
+  background-image: url("../images/bbq.jpg");
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   background-color: #404040;
-  background-image: url("../images/bbq.jpg");
   background-size: cover;
   background-position: center;
   padding: 0 0.5em 2em;
@@ -160,14 +166,19 @@ input:focus,
   media queries
   =============== */
 
-@media (min-width: 500px) {
+@media (min-width: 600px) {
   body {
     font-size: 1.125rem;
+    display: flex;
   }
 
-  .container {
-    display: flex;
-    align-items: center;
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2,
+  h1 + p {
+    font-size: 1.75rem;
   }
 
   .intro,
@@ -180,16 +191,5 @@ input:focus,
     display: flex;
     flex-direction: column;
     justify-content: center;
-  }
-
-  h1 {
-    font-size: 3.5rem;
-    font-weight: 300;
-    color: white;
-  }
-
-  h2,
-  h1 + p {
-    font-size: 1.75rem;
   }
 }
