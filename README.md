@@ -5,4 +5,4 @@
 
 ## Mobile screen version
 
-<img width="449" alt="Screen Shot 2022-11-01 at 7 06 22 PM" src="https://user-images.githubusercontent.com/82247833/199379446-e7e54dac-3d06-4030-9378-482502298bd1.png">
+<img width="431" alt="Screen Shot 2022-11-01 at 7 16 45 PM" src="https://user-images.githubusercontent.com/82247833/199379751-119062fe-8894-495e-b320-de89394d0a2b.png">
